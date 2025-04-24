@@ -136,6 +136,8 @@ p.note { display: none; }
 <a href="20250424_003.JPG" target="_blank"><img src="20250424_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250424_004.JPG" target="_blank"><img src="20250424_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250424_005.JPG" target="_blank"><img src="20250424_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">このお花、濡れると花びらが透明になるみたいです</span></h2>
 <a href="20250424_006.JPG" target="_blank"><img src="20250424_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250424_007.JPG" target="_blank"><img src="20250424_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250424_008.JPG" target="_blank"><img src="20250424_008.JPG" alt="サンプル画像" width="900" /></a>
